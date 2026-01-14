@@ -1,0 +1,176 @@
+date,day_of_week,category,app,minutes,hours,weighted_minutes
+2026-01-07,Wed,Social Media,Instagram,78,1.3,23.4
+2026-01-07,Wed,Social Media,Facebook,109,1.82,32.699999999999996
+2026-01-07,Wed,Social Media,Twitter,88,1.47,26.4
+2026-01-07,Wed,Social Media,TikTok,79,1.32,23.7
+2026-01-07,Wed,Social Media,Reddit,107,1.78,32.1
+2026-01-07,Wed,Entertainment,YouTube,92,1.53,46.0
+2026-01-07,Wed,Entertainment,Netflix,118,1.97,59.0
+2026-01-07,Wed,Entertainment,Spotify,135,2.25,67.5
+2026-01-07,Wed,Entertainment,Twitch,173,2.88,86.5
+2026-01-07,Wed,Entertainment,Games,60,1.0,30.0
+2026-01-07,Wed,Productivity,VS Code,129,2.15,258.0
+2026-01-07,Wed,Productivity,Google Docs,126,2.1,252.0
+2026-01-07,Wed,Productivity,Excel,85,1.42,170.0
+2026-01-07,Wed,Productivity,Notion,164,2.73,328.0
+2026-01-07,Wed,Productivity,Calendar,109,1.82,218.0
+2026-01-07,Wed,Communication,WhatsApp,31,0.52,31.0
+2026-01-07,Wed,Communication,Messenger,88,1.47,88.0
+2026-01-07,Wed,Communication,Email,23,0.38,23.0
+2026-01-07,Wed,Communication,Zoom,36,0.6,36.0
+2026-01-07,Wed,Communication,Slack,45,0.75,45.0
+2026-01-07,Wed,Learning,Coursera,65,1.08,117.0
+2026-01-07,Wed,Learning,Duolingo,87,1.45,156.6
+2026-01-07,Wed,Learning,Medium,35,0.58,63.0
+2026-01-07,Wed,Learning,Documentation,43,0.72,77.4
+2026-01-07,Wed,Learning,Tutorials,75,1.25,135.0
+2026-01-08,Thu,Social Media,Instagram,93,1.55,27.9
+2026-01-08,Thu,Social Media,Facebook,107,1.78,32.1
+2026-01-08,Thu,Social Media,Twitter,64,1.07,19.2
+2026-01-08,Thu,Social Media,TikTok,63,1.05,18.9
+2026-01-08,Thu,Social Media,Reddit,42,0.7,12.6
+2026-01-08,Thu,Entertainment,YouTube,166,2.77,83.0
+2026-01-08,Thu,Entertainment,Netflix,147,2.45,73.5
+2026-01-08,Thu,Entertainment,Spotify,86,1.43,43.0
+2026-01-08,Thu,Entertainment,Twitch,72,1.2,36.0
+2026-01-08,Thu,Entertainment,Games,142,2.37,71.0
+2026-01-08,Thu,Productivity,VS Code,151,2.52,302.0
+2026-01-08,Thu,Productivity,Google Docs,93,1.55,186.0
+2026-01-08,Thu,Productivity,Excel,119,1.98,238.0
+2026-01-08,Thu,Productivity,Notion,137,2.28,274.0
+2026-01-08,Thu,Productivity,Calendar,131,2.18,262.0
+2026-01-08,Thu,Communication,WhatsApp,33,0.55,33.0
+2026-01-08,Thu,Communication,Messenger,59,0.98,59.0
+2026-01-08,Thu,Communication,Email,49,0.82,49.0
+2026-01-08,Thu,Communication,Zoom,73,1.22,73.0
+2026-01-08,Thu,Communication,Slack,51,0.85,51.0
+2026-01-08,Thu,Learning,Coursera,40,0.67,72.0
+2026-01-08,Thu,Learning,Duolingo,51,0.85,91.8
+2026-01-08,Thu,Learning,Medium,85,1.42,153.0
+2026-01-08,Thu,Learning,Documentation,63,1.05,113.4
+2026-01-08,Thu,Learning,Tutorials,73,1.22,131.4
+2026-01-09,Fri,Social Media,Instagram,48,0.8,14.399999999999999
+2026-01-09,Fri,Social Media,Facebook,73,1.22,21.9
+2026-01-09,Fri,Social Media,Twitter,105,1.75,31.5
+2026-01-09,Fri,Social Media,TikTok,77,1.28,23.099999999999998
+2026-01-09,Fri,Social Media,Reddit,43,0.72,12.9
+2026-01-09,Fri,Entertainment,YouTube,74,1.23,37.0
+2026-01-09,Fri,Entertainment,Netflix,134,2.23,67.0
+2026-01-09,Fri,Entertainment,Spotify,87,1.45,43.5
+2026-01-09,Fri,Entertainment,Twitch,147,2.45,73.5
+2026-01-09,Fri,Entertainment,Games,146,2.43,73.0
+2026-01-09,Fri,Productivity,VS Code,217,3.62,434.0
+2026-01-09,Fri,Productivity,Google Docs,75,1.25,150.0
+2026-01-09,Fri,Productivity,Excel,240,4.0,480.0
+2026-01-09,Fri,Productivity,Notion,225,3.75,450.0
+2026-01-09,Fri,Productivity,Calendar,111,1.85,222.0
+2026-01-09,Fri,Communication,WhatsApp,84,1.4,84.0
+2026-01-09,Fri,Communication,Messenger,30,0.5,30.0
+2026-01-09,Fri,Communication,Email,51,0.85,51.0
+2026-01-09,Fri,Communication,Zoom,75,1.25,75.0
+2026-01-09,Fri,Communication,Slack,20,0.33,20.0
+2026-01-09,Fri,Learning,Coursera,61,1.02,109.8
+2026-01-09,Fri,Learning,Duolingo,41,0.68,73.8
+2026-01-09,Fri,Learning,Medium,65,1.08,117.0
+2026-01-09,Fri,Learning,Documentation,39,0.65,70.2
+2026-01-09,Fri,Learning,Tutorials,50,0.83,90.0
+2026-01-10,Sat,Social Media,Instagram,73,1.22,21.9
+2026-01-10,Sat,Social Media,Facebook,60,1.0,18.0
+2026-01-10,Sat,Social Media,Twitter,157,2.62,47.1
+2026-01-10,Sat,Social Media,TikTok,84,1.4,25.2
+2026-01-10,Sat,Social Media,Reddit,106,1.77,31.799999999999997
+2026-01-10,Sat,Entertainment,YouTube,196,3.27,98.0
+2026-01-10,Sat,Entertainment,Netflix,225,3.75,112.5
+2026-01-10,Sat,Entertainment,Spotify,177,2.95,88.5
+2026-01-10,Sat,Entertainment,Twitch,268,4.47,134.0
+2026-01-10,Sat,Entertainment,Games,229,3.82,114.5
+2026-01-10,Sat,Productivity,VS Code,321,5.35,642.0
+2026-01-10,Sat,Productivity,Google Docs,135,2.25,270.0
+2026-01-10,Sat,Productivity,Excel,295,4.92,590.0
+2026-01-10,Sat,Productivity,Notion,294,4.9,588.0
+2026-01-10,Sat,Productivity,Calendar,276,4.6,552.0
+2026-01-10,Sat,Communication,WhatsApp,121,2.02,121.0
+2026-01-10,Sat,Communication,Messenger,57,0.95,57.0
+2026-01-10,Sat,Communication,Email,81,1.35,81.0
+2026-01-10,Sat,Communication,Zoom,31,0.52,31.0
+2026-01-10,Sat,Communication,Slack,135,2.25,135.0
+2026-01-10,Sat,Learning,Coursera,118,1.97,212.4
+2026-01-10,Sat,Learning,Duolingo,130,2.17,234.0
+2026-01-10,Sat,Learning,Medium,79,1.32,142.20000000000002
+2026-01-10,Sat,Learning,Documentation,163,2.72,293.40000000000003
+2026-01-10,Sat,Learning,Tutorials,154,2.57,277.2
+2026-01-11,Sun,Social Media,Instagram,145,2.42,43.5
+2026-01-11,Sun,Social Media,Facebook,114,1.9,34.199999999999996
+2026-01-11,Sun,Social Media,Twitter,109,1.82,32.699999999999996
+2026-01-11,Sun,Social Media,TikTok,91,1.52,27.3
+2026-01-11,Sun,Social Media,Reddit,48,0.8,14.399999999999999
+2026-01-11,Sun,Entertainment,YouTube,178,2.97,89.0
+2026-01-11,Sun,Entertainment,Netflix,144,2.4,72.0
+2026-01-11,Sun,Entertainment,Spotify,178,2.97,89.0
+2026-01-11,Sun,Entertainment,Twitch,90,1.5,45.0
+2026-01-11,Sun,Entertainment,Games,193,3.22,96.5
+2026-01-11,Sun,Productivity,VS Code,175,2.92,350.0
+2026-01-11,Sun,Productivity,Google Docs,130,2.17,260.0
+2026-01-11,Sun,Productivity,Excel,97,1.62,194.0
+2026-01-11,Sun,Productivity,Notion,238,3.97,476.0
+2026-01-11,Sun,Productivity,Calendar,108,1.8,216.0
+2026-01-11,Sun,Communication,WhatsApp,61,1.02,61.0
+2026-01-11,Sun,Communication,Messenger,82,1.37,82.0
+2026-01-11,Sun,Communication,Email,61,1.02,61.0
+2026-01-11,Sun,Communication,Zoom,63,1.05,63.0
+2026-01-11,Sun,Communication,Slack,132,2.2,132.0
+2026-01-11,Sun,Learning,Coursera,165,2.75,297.0
+2026-01-11,Sun,Learning,Duolingo,169,2.82,304.2
+2026-01-11,Sun,Learning,Medium,163,2.72,293.40000000000003
+2026-01-11,Sun,Learning,Documentation,54,0.9,97.2
+2026-01-11,Sun,Learning,Tutorials,69,1.15,124.2
+2026-01-12,Mon,Social Media,Instagram,61,1.02,18.3
+2026-01-12,Mon,Social Media,Facebook,104,1.73,31.2
+2026-01-12,Mon,Social Media,Twitter,59,0.98,17.7
+2026-01-12,Mon,Social Media,TikTok,50,0.83,15.0
+2026-01-12,Mon,Social Media,Reddit,75,1.25,22.5
+2026-01-12,Mon,Entertainment,YouTube,165,2.75,82.5
+2026-01-12,Mon,Entertainment,Netflix,142,2.37,71.0
+2026-01-12,Mon,Entertainment,Spotify,71,1.18,35.5
+2026-01-12,Mon,Entertainment,Twitch,167,2.78,83.5
+2026-01-12,Mon,Entertainment,Games,65,1.08,32.5
+2026-01-12,Mon,Productivity,VS Code,233,3.88,466.0
+2026-01-12,Mon,Productivity,Google Docs,97,1.62,194.0
+2026-01-12,Mon,Productivity,Excel,109,1.82,218.0
+2026-01-12,Mon,Productivity,Notion,226,3.77,452.0
+2026-01-12,Mon,Productivity,Calendar,122,2.03,244.0
+2026-01-12,Mon,Communication,WhatsApp,67,1.12,67.0
+2026-01-12,Mon,Communication,Messenger,69,1.15,69.0
+2026-01-12,Mon,Communication,Email,35,0.58,35.0
+2026-01-12,Mon,Communication,Zoom,60,1.0,60.0
+2026-01-12,Mon,Communication,Slack,34,0.57,34.0
+2026-01-12,Mon,Learning,Coursera,73,1.22,131.4
+2026-01-12,Mon,Learning,Duolingo,101,1.68,181.8
+2026-01-12,Mon,Learning,Medium,79,1.32,142.20000000000002
+2026-01-12,Mon,Learning,Documentation,100,1.67,180.0
+2026-01-12,Mon,Learning,Tutorials,61,1.02,109.8
+2026-01-13,Tue,Social Media,Instagram,106,1.77,31.799999999999997
+2026-01-13,Tue,Social Media,Facebook,60,1.0,18.0
+2026-01-13,Tue,Social Media,Twitter,96,1.6,28.799999999999997
+2026-01-13,Tue,Social Media,TikTok,75,1.25,22.5
+2026-01-13,Tue,Social Media,Reddit,37,0.62,11.1
+2026-01-13,Tue,Entertainment,YouTube,90,1.5,45.0
+2026-01-13,Tue,Entertainment,Netflix,64,1.07,32.0
+2026-01-13,Tue,Entertainment,Spotify,165,2.75,82.5
+2026-01-13,Tue,Entertainment,Twitch,61,1.02,30.5
+2026-01-13,Tue,Entertainment,Games,104,1.73,52.0
+2026-01-13,Tue,Productivity,VS Code,69,1.15,138.0
+2026-01-13,Tue,Productivity,Google Docs,173,2.88,346.0
+2026-01-13,Tue,Productivity,Excel,102,1.7,204.0
+2026-01-13,Tue,Productivity,Notion,228,3.8,456.0
+2026-01-13,Tue,Productivity,Calendar,207,3.45,414.0
+2026-01-13,Tue,Communication,WhatsApp,26,0.43,26.0
+2026-01-13,Tue,Communication,Messenger,81,1.35,81.0
+2026-01-13,Tue,Communication,Email,24,0.4,24.0
+2026-01-13,Tue,Communication,Zoom,30,0.5,30.0
+2026-01-13,Tue,Communication,Slack,20,0.33,20.0
+2026-01-13,Tue,Learning,Coursera,63,1.05,113.4
+2026-01-13,Tue,Learning,Duolingo,77,1.28,138.6
+2026-01-13,Tue,Learning,Medium,103,1.72,185.4
+2026-01-13,Tue,Learning,Documentation,74,1.23,133.20000000000002
+2026-01-13,Tue,Learning,Tutorials,60,1.0,108.0
