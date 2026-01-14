@@ -15,6 +15,7 @@ The project focuses on understanding how screen time is distributed across diffe
 - Exported analysis results as CSV files  
 
 ## Project Structure
+```
 screen-time-analyzer/
 │
 ├── screen_time_analyser.ipynb
@@ -23,6 +24,7 @@ screen-time-analyzer/
 ├── category_summary.csv
 ├── category_barchart.png
 └── README.md
+```
 
 ## Tools & Technologies
 - Python 3  
